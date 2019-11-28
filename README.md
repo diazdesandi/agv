@@ -2,6 +2,13 @@
 ## Resumen
 Código para la realización de un vehículo guiado automáticamente.
 
+## Materiales
+* ESP-32
+* SonicDisc
+* Puente H L298N
+* Batería recargable de 12V
+* [Chasis de tanque](https://www.amazon.com/-/es/ROB0153-Chasis-de-Gladiador-Negro/dp/B07RZP1H3R/ref=sr_1_30?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=arduino+tank&qid=1574921974&sr=8-30)
+
 ## GitHub SonicDisc
 [SonicDisc](https://github.com/platisd/sonicdisc)
 ## Componentes SonicDisc
