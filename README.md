@@ -2,6 +2,8 @@
 ## Resumen
 Código para la realización de un vehículo guiado automáticamente.
 
+## GitHub SonicDisc
+[SonicDisc](https://github.com/platisd/sonicdisc)
 ## Componentes SonicDisc
 * [SonicDisc PCB](https://www.pcbway.com/project/shareproject/SonicDisc___A_360__ultrasonic_scanner__rev_1_.html)
 * 8 x HC-SR04
