@@ -28,6 +28,6 @@ Código para la realización de un vehículo guiado automáticamente.
 | :----:    |:----:     |
 | VCC       |  VIN      |
 | GND       |  GND      |
-| SDA       |  SDA      |
-| SCL       |  SCL      |
-| INT       |  ISR      |
+| SDA       |  D21      |
+| SCL       |  D22      |
+| INT       |  D4       |
