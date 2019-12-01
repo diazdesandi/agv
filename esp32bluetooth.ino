@@ -82,7 +82,7 @@ if (lecblue == 65){
      delay(1000);
     }
     
-    void Adelante(){
+void Adelante(){
   Serial.println("↑ ↑ ↑ ↑");
   digitalWrite(IN1, LOW);
   digitalWrite(IN2, HIGH);
